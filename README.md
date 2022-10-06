@@ -4,5 +4,5 @@ API with all CRUD's operations, it's necessary use some API Client for test, lik
 <br>
 Script to run the application: <br>NPM RUN DEV</br>
 
-Link for the Video tutorial
+Link Video tutorial
 https://www.youtube.com/watch?v=qGpOKeYSzqc
